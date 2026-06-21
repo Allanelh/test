@@ -1,3 +1,4 @@
 Line 1
 Mistake
 New feature added
+Quick fix
