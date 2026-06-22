@@ -1,4 +1,4 @@
-Line 1
+Monday-Friday
 Mistake
 New feature added
 Quick fix
@@ -7,3 +7,4 @@ Fix 1 text
 Groundhog day
 Change from someone else
 Allan Lara
+Change from local clone
